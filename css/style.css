@@ -1,0 +1,31 @@
+/*change brand font*/
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em; 
+    font-weight: bold;
+}
+/*change navigation color*/
+.navbar #myMenu  .custom-nav .nav-item a{
+    color: #fff;
+}
+/*change Hover color*/
+.navbar #myMenu  .custom-nav .nav-item a:hover{
+    color: #F0AAB1;
+}
+/*Make Header Image Responsive*/
+.bg-image{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius: 0px;
+    margin-top: 80px;
+}
+
+.carousel-inner > .item > img {
+    width:340px;
+    height:160px;
+  }
+  
+
+/*font-family: 'Ubuntu', sans-serif;*/
